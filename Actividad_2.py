@@ -1,6 +1,6 @@
 estrato = int(input("Ingresa tu estrato: "))
 edad = int(input("Ingresa tu edad: "))
-precio_matricula = 2000000
+precio_matricula = int(input("ingresa el precio de tu matricula:"))
 
 
 if edad > 18 and estrato == 1:
