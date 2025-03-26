@@ -23,7 +23,7 @@ if edad >= 18:
         print ("ud puede votar")
     else:
         print ("ud no puede votar")
-
+    
 else:
     print("ud no puede votar")
  
